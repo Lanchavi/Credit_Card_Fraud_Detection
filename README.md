@@ -13,3 +13,6 @@ The project deals with a dataset that has both fraud and non-fraud transactions.
 
 ## Link of the dataset
 /kaggle/input/fraud-detection-credit-card/creditcard.csv
+
+## Dashboard
+![pppp](https://github.com/Lanchavi/Credit_Card_Fraud_Detection/assets/86043520/d0215427-e4e8-4dbc-8fa9-d88552cf461d)
